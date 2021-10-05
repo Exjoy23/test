@@ -38,7 +38,6 @@ MyWonderfulComponent.propTypes = {
     }),
   }),
   count: PropTypes.number.isRequired,
-  color: PropTypes.string.isRequired,
   data: PropTypes.string.isRequired,
   children: PropTypes.node,
 };
